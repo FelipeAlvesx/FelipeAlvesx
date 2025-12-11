@@ -15,8 +15,8 @@ I'm passionate about **learning new technologies** and creating **efficient, cle
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, Spring MVC, Spring Data, Django, Flask 
+- **Languages:** Java, Python, Javascript/Typescript, SQL  
+- **Frameworks:** Spring Boot, Spring MVC, Spring Data, Django, Flask, Nodejs 
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Tools:** Git, Maven, Docker, Postman  
 

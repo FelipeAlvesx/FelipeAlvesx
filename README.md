@@ -15,9 +15,10 @@ I'm passionate about **learning new technologies** and creating **efficient, cle
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Java, Python, Javascript/Typescript, SQL  
+- **Languages:** Java, Python, Javascript/Typescript, Databases
 - **Frameworks:** Spring Boot, Spring MVC, Spring Data, Nest, NextJs 
-- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Architectures** DDD, Clean Architecure, Security Patterns
 - **Tools:** AI, Git, Maven, Docker, Postman, DBeaver
 - **Cloud:** AWS 
 

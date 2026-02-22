@@ -15,10 +15,10 @@ Strong focus on **Clean Architecture, DDD, secure systems**, and real-world AI i
 
 - REST API & Microservices development (Spring Boot / Node.js)
 - Clean Architecture & Domain-Driven Design (DDD)
-- Authentication & Security (JWT, secure API design)
-- Relational & NoSQL database modeling
-- Containerization & production-ready environments (Docker, Nginx)
+- Backend Secure Systems
 - AI-powered backend integrations
+- Relational & NoSQL database modeling
+- AI Agents W/ n8n
 
 ---
 

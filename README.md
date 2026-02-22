@@ -1,57 +1,77 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Felipe%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-# 👋 Hi there, I'm Felipe Alves
+# Felipe Alves — Backend Java Developer (Spring)
 
-💻 Backend Java Developer  
-⚙️ Specialized in Spring Framework  
-🧠 Focused on Clean Architecture & DDD  
-☁️ Exploring Cloud & AI Integration  
-📍 Brazil  
+Backend engineer specialized in building **scalable REST APIs and microservices** using **Java + Spring Boot**.  
+Strong focus on **Clean Architecture, DDD, secure systems**, and real-world AI integrations.
 
----
-
-## 🚀 About Me
-
-I'm a **Backend Java Developer** focused on building reliable and scalable systems using the **Spring Framework**.
-
-I have experience developing:
-
-- 🔹 RESTful APIs  
-- 🔹 Microservices  
-- 🔹 Secure authentication systems  
-- 🔹 Relational & non-relational database integrations  
-
-I'm passionate about building **clean, maintainable, and scalable architectures**, always improving my skills and exploring new technologies.
+📍 Brazil — Open to remote opportunities  
+📧 [feelipe.devloper@gmail.com](mailto:feelipe.devloper@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/felipe-alves-5b74262b9)
 
 ---
 
-## 🛠️ Technologies & Tools
+## Core Expertise
 
-### 🔹 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript" />
-</p>
-
-### 🔹 Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nextjs" />
-</p>
-
-### 🔹 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### 🔹 DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,maven,aws" />
-</p>
-
-🧠 **Architecture Focus:** DDD • Clean Architecture • Security Patterns
+- REST API & Microservices development (Spring Boot / Node.js)
+- Clean Architecture & Domain-Driven Design (DDD)
+- Authentication & Security (JWT, secure API design)
+- Relational & NoSQL database modeling
+- Containerization & production-ready environments (Docker, Nginx)
+- AI-powered backend integrations
 
 ---
 
-## 🐍 Contribution Snake
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,nginx,aws,git,maven,typescript,javascript,nodejs,express,prisma,nextjs,nestjs" />
+</p>
+
+**Backend:** Java, Spring Boot, Node.js, Express  
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
+**Architecture:** DDD, Clean Architecture, Security Patterns  
+**DevOps:** Docker, Nginx (Load Balancer), AWS  
+**ORM & Tools:** Prisma ORM, Maven, Git  
+
+---
+
+## Featured Projects
+
+### 🔹 AI Triage API (Java — Spring Boot)
+**Clean Architecture + DDD + AI Integration**
+
+API designed for intelligent medical triage using AI-assisted urgency classification.
+
+- Register patient symptoms
+- AI-based urgency classification (LOW, MEDIUM, HIGH)
+- Integrated with GROQ AI
+- PostgreSQL + Dockerized environment
+- Structured with Clean Architecture principles
+
+🔗 Repository:  
+https://github.com/FelipeAlvesx/AI-API
+
+---
+
+### 🔹 URL Shortener (Node.js — Express)
+**Production-oriented REST API with load balancing**
+
+A scalable URL shortening service with tracking and validation features.
+
+- Short URL generation with click tracking
+- Automatic HTTP/HTTPS redirection
+- URL validation (protocol & TLD enforcement)
+- Prisma ORM + SQLite
+- Nginx Load Balancer
+- Docker-ready setup
+
+🔗 Repository:  
+https://github.com/FelipeAlvesx/my-url-shorter
+
+---
+
+## Contribution Activity
 
 <p align="center">
   <picture>
@@ -72,11 +92,13 @@ I'm passionate about building **clean, maintainable, and scalable architectures*
 
 ---
 
-## 📬 Contact
+## Professional Focus
 
-📧 Email: [feelipe.devloper@gmail.com](mailto:feelipe.devloper@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/felipe-alves-5b74262b9](https://www.linkedin.com/in/felipe-alves-5b74262b9)
+Building backend systems that are:
 
----
+- Scalable  
+- Secure  
+- Well-architected  
+- Production-ready  
 
-> "Architecture is not about frameworks. It's about responsibility and boundaries."
+> “Architecture is not about frameworks — it's about clear boundaries and responsibility.”

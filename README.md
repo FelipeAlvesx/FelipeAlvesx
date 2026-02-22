@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Felipe%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-# Felipe Alves — Backend Java Developer (Spring)
+# Felipe Alves — Backend Developer
 
-Backend engineer specialized in building **scalable REST APIs and microservices** using **Java + Spring Boot**.  
+Backend engineer specialized in building **scalable REST APIs and microservices** using **Spring Boot, NodeJS**.  
 Strong focus on **Clean Architecture, DDD, secure systems**, and real-world AI integrations.
 
 📍 Brazil — Open to remote opportunities  
@@ -31,7 +31,7 @@ Strong focus on **Clean Architecture, DDD, secure systems**, and real-world AI i
 **Backend:** Java, Spring Boot, Node.js, Express  
 **Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
 **Architecture:** DDD, Clean Architecture, Security Patterns  
-**DevOps:** Docker, Nginx (Load Balancer), AWS  
+**DevOps:** Docker, Nginx, AWS  
 **ORM & Tools:** Prisma ORM, Maven, Git  
 
 ---

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=Felipe%20Alves&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=190&section=header&text=FelipeAlvesx&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 # Felipe Alves — Backend Developer
 

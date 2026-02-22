@@ -21,6 +21,7 @@ I have experience developing:
 
 I'm passionate about building **clean, maintainable, and scalable architectures**, always improving my skills and exploring new technologies.
 
+---
 
 ## 🛠️ Technologies & Tools
 

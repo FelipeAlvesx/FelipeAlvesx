@@ -69,6 +69,7 @@ I'm passionate about building **clean, maintainable, and scalable architectures*
     />
   </picture>
 </p>
+
 ---
 
 ## 📬 Contact

@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Felipe Alves
 
-💻 Backend Java Developer  
+💻 Backend Developer  
 ⚙️ Specialized in Spring Framework  
 🧠 Focused on Clean Architecture & DDD  
 ☁️ Exploring Cloud & AI Integration  
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Java Developer** focused on building reliable and scalable systems using the **Spring Framework**.
+I'm a **Backend Developer** focused on building reliable and scalable systems using the **Spring Framework, NestJs...**.
 
 I have experience developing:
 

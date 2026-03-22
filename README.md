@@ -34,42 +34,6 @@ Strong focus on **Clean Architecture, DDD, secure systems**, and real-world AI i
 **DevOps:** Docker, Nginx, AWS  
 **ORM & Tools:** Prisma ORM, Maven, Git  
 
----
-
-## Featured Projects
-
-### 🔹 AI Triage API (Java — Spring Boot)
-**Clean Architecture + DDD + AI Integration**
-
-API designed for intelligent medical triage using AI-assisted urgency classification.
-
-- Register patient symptoms
-- AI-based urgency classification (LOW, MEDIUM, HIGH)
-- Integrated with GROQ AI
-- PostgreSQL + Dockerized environment
-- Structured with Clean Architecture principles
-
-🔗 Repository:  
-https://github.com/FelipeAlvesx/AI-API
-
----
-
-### 🔹 URL Shortener (Node.js — Express)
-**Production-oriented REST API with load balancing**
-
-A scalable URL shortening service with tracking and validation features.
-
-- Short URL generation with click tracking
-- Automatic HTTP/HTTPS redirection
-- URL validation (protocol & TLD enforcement)
-- Prisma ORM + SQLite
-- Nginx Load Balancer
-- Docker-ready setup
-
-🔗 Repository:  
-https://github.com/FelipeAlvesx/my-url-shorter
-
----
 
 ## Contribution Activity
 

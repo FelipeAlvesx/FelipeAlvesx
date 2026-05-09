@@ -68,14 +68,6 @@ Building smart solutions for businesses that want to **move faster with AI**:
 </p>
 ---
  
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAlvesx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=818cf8&text_color=c7d2fe" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlvesx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=c7d2fe" height="160" />
-</p>
----
- 
 ## 🎯 Current Focus
  
 - 🔭 **Growing my AI Agency** — scaling client solutions with AI-first approach
